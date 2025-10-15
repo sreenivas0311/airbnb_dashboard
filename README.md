@@ -21,6 +21,9 @@
 
 1️⃣ Airbnb Analysis and Insights Presentation.pdf
 A business-focused presentation summarizing key findings from the Airbnb dataset. Includes visual insights on pricing trends, occupancy, location performance, and host opportunities.
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/4c3654ca-2945-46a6-8b4c-b65d6dea0b19" />
+<img width="1413" height="789" alt="image" src="https://github.com/user-attachments/assets/4d319dcb-0ec2-4d35-8456-c02bc0856641" />
+<img width="1409" height="786" alt="image" src="https://github.com/user-attachments/assets/67aaa1db-b4b2-4d5c-8c2b-3e5e8c72f8fb" />
 
 2️⃣ Airbnb Dashboard.pbix
 An interactive Power BI dashboard built using the cleaned Airbnb dataset. It allows users to filter by city, property type, and time, and explore trends in pricing, occupancy, and demand.
